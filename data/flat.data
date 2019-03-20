@@ -1,0 +1,1960 @@
+Camera information 
+Location:  x: 0 y: 0 z: 2000
+Vert: 0 Horz: 0 Rot: 0 Dist: 8000 View Dist: 2000
+Focal point:  x: 0 y: 0 z: -6000
+VPN:  x: 0 y: 0 z: 0
+View Fustrum
+Wall #: 0Normal:  x: 0 y: 0 z: -1
+Center:  x: 0 y: 0 z: -6400
+Vertices: 
+Position : x: -2984 y: -3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: 2984 y: -3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: 2984 y: 3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: -2984 y: 3695 z: -4400 Normal : x: 0 y: 0 z: 0
+
+
+Wall #: 1Normal:  x: 0 y: 0 z: 1
+Center:  x: 0 y: 0 z: 160000
+Vertices: 
+Position : x: 74609 y: 92376 z: 162000 Normal : x: 0 y: 0 z: 0
+Position : x: 74609 y: -92376 z: 162000 Normal : x: 0 y: 0 z: 0
+Position : x: -74609 y: -92376 z: 162000 Normal : x: 0 y: 0 z: 0
+Position : x: -74609 y: 92376 z: 162000 Normal : x: 0 y: 0 z: 0
+
+
+Wall #: 2Normal:  x: 0 y: 0.882498 z: -0.470317
+Center:  x: 0 y: 48035.5 z: 76800
+Vertices: 
+Position : x: -2984 y: 3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: 2984 y: 3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: 74609 y: 92376 z: 162000 Normal : x: 0 y: 0 z: 0
+Position : x: -74609 y: 92376 z: 162000 Normal : x: 0 y: 0 z: 0
+
+
+Wall #: 3Normal:  x: 0 y: -0.882498 z: -0.470317
+Center:  x: 0 y: -48035.5 z: 76800
+Vertices: 
+Position : x: 2984 y: -3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: -2984 y: -3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: -74609 y: -92376 z: 162000 Normal : x: 0 y: 0 z: 0
+Position : x: 74609 y: -92376 z: 162000 Normal : x: 0 y: 0 z: 0
+
+
+Wall #: 4Normal:  x: -0.918523 y: 0 z: -0.395368
+Center:  x: -38796.5 y: 0 z: 76800
+Vertices: 
+Position : x: -2984 y: -3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: -2984 y: 3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: -74609 y: 92376 z: 162000 Normal : x: 0 y: 0 z: 0
+Position : x: -74609 y: -92376 z: 162000 Normal : x: 0 y: 0 z: 0
+
+
+Wall #: 5Normal:  x: 0.918523 y: 0 z: -0.395368
+Center:  x: 38796.5 y: 0 z: 76800
+Vertices: 
+Position : x: 2984 y: 3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: 2984 y: -3695 z: -4400 Normal : x: 0 y: 0 z: 0
+Position : x: 74609 y: -92376 z: 162000 Normal : x: 0 y: 0 z: 0
+Position : x: 74609 y: 92376 z: 162000 Normal : x: 0 y: 0 z: 0
+
+
+
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -1000 z: -66.6667
+Vertices: 
+Position : x: -1750 y: -1000 z: -450 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1500 y: -1000 z: -450 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1250 y: -1000 z: 0 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -1000 z: 250 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1750 y: -1000 z: 250 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1950 y: -1000 z: 0 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -1950 z: -66.6667
+Vertices: 
+Position : x: -1950 y: -1950 z: 0 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1750 y: -1950 z: 250 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1500 y: -1950 z: 250 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1250 y: -1950 z: 0 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1500 y: -1950 z: -450 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1750 y: -1950 z: -450 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -1475 z: -225
+Vertices: 
+Position : x: -1750 y: -1950 z: -450 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -1750 y: -1000 z: -450 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1950 y: -1000 z: 0 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1950 y: -1950 z: 0 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -1475 z: -450
+Vertices: 
+Position : x: -1500 y: -1950 z: -450 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1500 y: -1000 z: -450 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1750 y: -1000 z: -450 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1750 y: -1950 z: -450 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -1475 z: -225
+Vertices: 
+Position : x: -1250 y: -1950 z: 0 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1250 y: -1000 z: 0 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -1000 z: -450 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1500 y: -1950 z: -450 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -1475 z: 125
+Vertices: 
+Position : x: -1500 y: -1950 z: 250 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1500 y: -1000 z: 250 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1250 y: -1000 z: 0 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1250 y: -1950 z: 0 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -1475 z: 250
+Vertices: 
+Position : x: -1750 y: -1950 z: 250 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1750 y: -1000 z: 250 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1500 y: -1000 z: 250 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1500 y: -1950 z: 250 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -1475 z: 125
+Vertices: 
+Position : x: -1950 y: -1950 z: 0 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1950 y: -1000 z: 0 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1750 y: -1000 z: 250 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1750 y: -1950 z: 250 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -19000 z: -9566.67
+Vertices: 
+Position : x: -1750 y: -19000 z: -9950 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1500 y: -19000 z: -9950 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1250 y: -19000 z: -9500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -19000 z: -9250 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1750 y: -19000 z: -9250 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1950 y: -19000 z: -9500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -19950 z: -9566.67
+Vertices: 
+Position : x: -1950 y: -19950 z: -9500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1750 y: -19950 z: -9250 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1500 y: -19950 z: -9250 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1250 y: -19950 z: -9500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1500 y: -19950 z: -9950 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1750 y: -19950 z: -9950 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -19475 z: -9725
+Vertices: 
+Position : x: -1750 y: -19950 z: -9950 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -1750 y: -19000 z: -9950 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1950 y: -19000 z: -9500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1950 y: -19950 z: -9500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -19475 z: -9950
+Vertices: 
+Position : x: -1500 y: -19950 z: -9950 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1500 y: -19000 z: -9950 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1750 y: -19000 z: -9950 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1750 y: -19950 z: -9950 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -19475 z: -9725
+Vertices: 
+Position : x: -1250 y: -19950 z: -9500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1250 y: -19000 z: -9500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -19000 z: -9950 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1500 y: -19950 z: -9950 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -19475 z: -9375
+Vertices: 
+Position : x: -1500 y: -19950 z: -9250 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1500 y: -19000 z: -9250 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1250 y: -19000 z: -9500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1250 y: -19950 z: -9500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -19475 z: -9250
+Vertices: 
+Position : x: -1750 y: -19950 z: -9250 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1750 y: -19000 z: -9250 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1500 y: -19000 z: -9250 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1500 y: -19950 z: -9250 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -19475 z: -9375
+Vertices: 
+Position : x: -1950 y: -19950 z: -9500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1950 y: -19000 z: -9500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1750 y: -19000 z: -9250 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1750 y: -19950 z: -9250 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -19000 z: 10433.3
+Vertices: 
+Position : x: -1750 y: -19000 z: 10050 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1500 y: -19000 z: 10050 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1250 y: -19000 z: 10500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -19000 z: 10750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1750 y: -19000 z: 10750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1950 y: -19000 z: 10500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -19950 z: 10433.3
+Vertices: 
+Position : x: -1950 y: -19950 z: 10500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1750 y: -19950 z: 10750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1500 y: -19950 z: 10750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1250 y: -19950 z: 10500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1500 y: -19950 z: 10050 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1750 y: -19950 z: 10050 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -19475 z: 10275
+Vertices: 
+Position : x: -1750 y: -19950 z: 10050 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -1750 y: -19000 z: 10050 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1950 y: -19000 z: 10500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1950 y: -19950 z: 10500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -19475 z: 10050
+Vertices: 
+Position : x: -1500 y: -19950 z: 10050 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1500 y: -19000 z: 10050 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1750 y: -19000 z: 10050 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1750 y: -19950 z: 10050 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -19475 z: 10275
+Vertices: 
+Position : x: -1250 y: -19950 z: 10500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1250 y: -19000 z: 10500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -19000 z: 10050 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1500 y: -19950 z: 10050 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -19475 z: 10625
+Vertices: 
+Position : x: -1500 y: -19950 z: 10750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1500 y: -19000 z: 10750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1250 y: -19000 z: 10500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1250 y: -19950 z: 10500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -19475 z: 10750
+Vertices: 
+Position : x: -1750 y: -19950 z: 10750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1750 y: -19000 z: 10750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1500 y: -19000 z: 10750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1500 y: -19950 z: 10750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -19475 z: 10625
+Vertices: 
+Position : x: -1950 y: -19950 z: 10500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1950 y: -19000 z: 10500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1750 y: -19000 z: 10750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1750 y: -19950 z: 10750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -19000 z: 433.333
+Vertices: 
+Position : x: -1750 y: -19000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1500 y: -19000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1250 y: -19000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -19000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1750 y: -19000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1950 y: -19000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -19950 z: 433.333
+Vertices: 
+Position : x: -1950 y: -19950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1750 y: -19950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1500 y: -19950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1250 y: -19950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1500 y: -19950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1750 y: -19950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -19475 z: 275
+Vertices: 
+Position : x: -1750 y: -19950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -1750 y: -19000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1950 y: -19000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1950 y: -19950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -19475 z: 50
+Vertices: 
+Position : x: -1500 y: -19950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1500 y: -19000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1750 y: -19000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1750 y: -19950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -19475 z: 275
+Vertices: 
+Position : x: -1250 y: -19950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1250 y: -19000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -19000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1500 y: -19950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -19475 z: 625
+Vertices: 
+Position : x: -1500 y: -19950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1500 y: -19000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1250 y: -19000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1250 y: -19950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -19475 z: 750
+Vertices: 
+Position : x: -1750 y: -19950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1750 y: -19000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1500 y: -19000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1500 y: -19950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -19475 z: 625
+Vertices: 
+Position : x: -1950 y: -19950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1950 y: -19000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1750 y: -19000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1750 y: -19950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -19616.7 y: -1000 z: 433.333
+Vertices: 
+Position : x: -19750 y: -1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -19500 y: -1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -19250 y: -1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -19500 y: -1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -19750 y: -1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -19950 y: -1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -19616.7 y: -1950 z: 433.333
+Vertices: 
+Position : x: -19950 y: -1950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -19750 y: -1950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -19500 y: -1950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -19250 y: -1950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -19500 y: -1950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -19750 y: -1950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -19850 y: -1475 z: 275
+Vertices: 
+Position : x: -19750 y: -1950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -19750 y: -1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -19950 y: -1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -19950 y: -1950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -19625 y: -1475 z: 50
+Vertices: 
+Position : x: -19500 y: -1950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -19500 y: -1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -19750 y: -1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -19750 y: -1950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -19375 y: -1475 z: 275
+Vertices: 
+Position : x: -19250 y: -1950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -19250 y: -1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -19500 y: -1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -19500 y: -1950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -19375 y: -1475 z: 625
+Vertices: 
+Position : x: -19500 y: -1950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -19500 y: -1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -19250 y: -1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -19250 y: -1950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -19625 y: -1475 z: 750
+Vertices: 
+Position : x: -19750 y: -1950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -19750 y: -1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -19500 y: -1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -19500 y: -1950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -19850 y: -1475 z: 625
+Vertices: 
+Position : x: -19950 y: -1950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -19950 y: -1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -19750 y: -1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -19750 y: -1950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -9616.67 y: -3000 z: 433.333
+Vertices: 
+Position : x: -9750 y: -3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -9500 y: -3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -9250 y: -3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -9500 y: -3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -9750 y: -3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -9950 y: -3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -9616.67 y: -3950 z: 433.333
+Vertices: 
+Position : x: -9950 y: -3950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -9750 y: -3950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -9500 y: -3950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -9250 y: -3950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -9500 y: -3950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -9750 y: -3950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -9850 y: -3475 z: 275
+Vertices: 
+Position : x: -9750 y: -3950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -9750 y: -3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -9950 y: -3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -9950 y: -3950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -9625 y: -3475 z: 50
+Vertices: 
+Position : x: -9500 y: -3950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -9500 y: -3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -9750 y: -3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -9750 y: -3950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -9375 y: -3475 z: 275
+Vertices: 
+Position : x: -9250 y: -3950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -9250 y: -3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -9500 y: -3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -9500 y: -3950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -9375 y: -3475 z: 625
+Vertices: 
+Position : x: -9500 y: -3950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -9500 y: -3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -9250 y: -3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -9250 y: -3950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -9625 y: -3475 z: 750
+Vertices: 
+Position : x: -9750 y: -3950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -9750 y: -3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -9500 y: -3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -9500 y: -3950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -9850 y: -3475 z: 625
+Vertices: 
+Position : x: -9950 y: -3950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -9950 y: -3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -9750 y: -3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -9750 y: -3950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -616.667 y: -3000 z: 433.333
+Vertices: 
+Position : x: -750 y: -3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -500 y: -3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -250 y: -3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -500 y: -3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -750 y: -3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -950 y: -3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -616.667 y: -3950 z: 433.333
+Vertices: 
+Position : x: -950 y: -3950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -750 y: -3950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -500 y: -3950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -250 y: -3950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -500 y: -3950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -750 y: -3950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -850 y: -3475 z: 275
+Vertices: 
+Position : x: -750 y: -3950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -750 y: -3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -950 y: -3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -950 y: -3950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -625 y: -3475 z: 50
+Vertices: 
+Position : x: -500 y: -3950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -500 y: -3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -750 y: -3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -750 y: -3950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -375 y: -3475 z: 275
+Vertices: 
+Position : x: -250 y: -3950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -250 y: -3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -500 y: -3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -500 y: -3950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -375 y: -3475 z: 625
+Vertices: 
+Position : x: -500 y: -3950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -500 y: -3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -250 y: -3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -250 y: -3950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -625 y: -3475 z: 750
+Vertices: 
+Position : x: -750 y: -3950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -750 y: -3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -500 y: -3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -500 y: -3950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -850 y: -3475 z: 625
+Vertices: 
+Position : x: -950 y: -3950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -950 y: -3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -750 y: -3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -750 y: -3950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -3616.67 y: 0 z: 433.333
+Vertices: 
+Position : x: -3750 y: 0 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -3500 y: 0 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -3250 y: 0 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -3500 y: 0 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -3750 y: 0 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -3950 y: 0 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -3616.67 y: -950 z: 433.333
+Vertices: 
+Position : x: -3950 y: -950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -3750 y: -950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -3500 y: -950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -3250 y: -950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -3500 y: -950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -3750 y: -950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -3850 y: -475 z: 275
+Vertices: 
+Position : x: -3750 y: -950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -3750 y: 0 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -3950 y: 0 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -3950 y: -950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -3625 y: -475 z: 50
+Vertices: 
+Position : x: -3500 y: -950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -3500 y: 0 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -3750 y: 0 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -3750 y: -950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -3375 y: -475 z: 275
+Vertices: 
+Position : x: -3250 y: -950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -3250 y: 0 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -3500 y: 0 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -3500 y: -950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -3375 y: -475 z: 625
+Vertices: 
+Position : x: -3500 y: -950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -3500 y: 0 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -3250 y: 0 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -3250 y: -950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -3625 y: -475 z: 750
+Vertices: 
+Position : x: -3750 y: -950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -3750 y: 0 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -3500 y: 0 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -3500 y: -950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -3850 y: -475 z: 625
+Vertices: 
+Position : x: -3950 y: -950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -3950 y: 0 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -3750 y: 0 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -3750 y: -950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -1000 z: 433.333
+Vertices: 
+Position : x: -1750 y: -1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1500 y: -1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1250 y: -1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1750 y: -1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1950 y: -1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -1950 z: 433.333
+Vertices: 
+Position : x: -1950 y: -1950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1750 y: -1950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1500 y: -1950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1250 y: -1950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1500 y: -1950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1750 y: -1950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -1475 z: 275
+Vertices: 
+Position : x: -1750 y: -1950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -1750 y: -1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1950 y: -1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1950 y: -1950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -1475 z: 50
+Vertices: 
+Position : x: -1500 y: -1950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -1500 y: -1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1750 y: -1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -1750 y: -1950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -1475 z: 275
+Vertices: 
+Position : x: -1250 y: -1950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -1250 y: -1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1500 y: -1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -1500 y: -1950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -1475 z: 625
+Vertices: 
+Position : x: -1500 y: -1950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -1500 y: -1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1250 y: -1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -1250 y: -1950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -1475 z: 750
+Vertices: 
+Position : x: -1750 y: -1950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -1750 y: -1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1500 y: -1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -1500 y: -1950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -1475 z: 625
+Vertices: 
+Position : x: -1950 y: -1950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -1950 y: -1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -1750 y: -1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -1750 y: -1950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -616.667 y: 0 z: 433.333
+Vertices: 
+Position : x: -750 y: 0 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -500 y: 0 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -250 y: 0 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -500 y: 0 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -750 y: 0 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -950 y: 0 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -616.667 y: -950 z: 433.333
+Vertices: 
+Position : x: -950 y: -950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -750 y: -950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -500 y: -950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -250 y: -950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -500 y: -950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -750 y: -950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -850 y: -475 z: 275
+Vertices: 
+Position : x: -750 y: -950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: -750 y: 0 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -950 y: 0 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -950 y: -950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -625 y: -475 z: 50
+Vertices: 
+Position : x: -500 y: -950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: -500 y: 0 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -750 y: 0 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: -750 y: -950 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -375 y: -475 z: 275
+Vertices: 
+Position : x: -250 y: -950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: -250 y: 0 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -500 y: 0 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: -500 y: -950 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -375 y: -475 z: 625
+Vertices: 
+Position : x: -500 y: -950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: -500 y: 0 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -250 y: 0 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: -250 y: -950 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -625 y: -475 z: 750
+Vertices: 
+Position : x: -750 y: -950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: -750 y: 0 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -500 y: 0 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: -500 y: -950 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -850 y: -475 z: 625
+Vertices: 
+Position : x: -950 y: -950 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: -950 y: 0 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: -750 y: 0 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: -750 y: -950 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 383.333 y: 1000 z: 433.333
+Vertices: 
+Position : x: 250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 50 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 383.333 y: 50 z: 433.333
+Vertices: 
+Position : x: 50 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 150 y: 525 z: 275
+Vertices: 
+Position : x: 250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 50 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 50 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 375 y: 525 z: 50
+Vertices: 
+Position : x: 500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 625 y: 525 z: 275
+Vertices: 
+Position : x: 750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 625 y: 525 z: 625
+Vertices: 
+Position : x: 500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 375 y: 525 z: 750
+Vertices: 
+Position : x: 250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 150 y: 525 z: 625
+Vertices: 
+Position : x: 50 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 50 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 883.333 y: 1250 z: 433.333
+Vertices: 
+Position : x: 750 y: 1250 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 1000 y: 1250 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 1250 y: 1250 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 1000 y: 1250 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 750 y: 1250 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 550 y: 1250 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 883.333 y: 300 z: 433.333
+Vertices: 
+Position : x: 550 y: 300 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 750 y: 300 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 1000 y: 300 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 1250 y: 300 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 1000 y: 300 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 750 y: 300 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 650 y: 775 z: 275
+Vertices: 
+Position : x: 750 y: 300 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 750 y: 1250 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 550 y: 1250 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 550 y: 300 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 875 y: 775 z: 50
+Vertices: 
+Position : x: 1000 y: 300 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 1000 y: 1250 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 750 y: 1250 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 750 y: 300 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 1125 y: 775 z: 275
+Vertices: 
+Position : x: 1250 y: 300 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 1250 y: 1250 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 1000 y: 1250 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 1000 y: 300 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 1125 y: 775 z: 625
+Vertices: 
+Position : x: 1000 y: 300 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 1000 y: 1250 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 1250 y: 1250 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 1250 y: 300 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 875 y: 775 z: 750
+Vertices: 
+Position : x: 750 y: 300 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 750 y: 1250 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 1000 y: 1250 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 1000 y: 300 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 650 y: 775 z: 625
+Vertices: 
+Position : x: 550 y: 300 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 550 y: 1250 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 750 y: 1250 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 750 y: 300 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 2383.33 y: 1000 z: 433.333
+Vertices: 
+Position : x: 2250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 2500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 2750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 2500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 2250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 2050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 2383.33 y: 50 z: 433.333
+Vertices: 
+Position : x: 2050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 2250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 2500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 2750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 2500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 2250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 2150 y: 525 z: 275
+Vertices: 
+Position : x: 2250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 2250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 2050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 2050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 2375 y: 525 z: 50
+Vertices: 
+Position : x: 2500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 2500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 2250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 2250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 2625 y: 525 z: 275
+Vertices: 
+Position : x: 2750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 2750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 2500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 2500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 2625 y: 525 z: 625
+Vertices: 
+Position : x: 2500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 2500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 2750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 2750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 2375 y: 525 z: 750
+Vertices: 
+Position : x: 2250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 2250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 2500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 2500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 2150 y: 525 z: 625
+Vertices: 
+Position : x: 2050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 2050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 2250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 2250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 5383.33 y: 6000 z: 433.333
+Vertices: 
+Position : x: 5250 y: 6000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 5500 y: 6000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 5750 y: 6000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 5500 y: 6000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 5250 y: 6000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 5050 y: 6000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 5383.33 y: 5050 z: 433.333
+Vertices: 
+Position : x: 5050 y: 5050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 5250 y: 5050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 5500 y: 5050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 5750 y: 5050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 5500 y: 5050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 5250 y: 5050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 5150 y: 5525 z: 275
+Vertices: 
+Position : x: 5250 y: 5050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 5250 y: 6000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 5050 y: 6000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 5050 y: 5050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 5375 y: 5525 z: 50
+Vertices: 
+Position : x: 5500 y: 5050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 5500 y: 6000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 5250 y: 6000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 5250 y: 5050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 5625 y: 5525 z: 275
+Vertices: 
+Position : x: 5750 y: 5050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 5750 y: 6000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 5500 y: 6000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 5500 y: 5050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 5625 y: 5525 z: 625
+Vertices: 
+Position : x: 5500 y: 5050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 5500 y: 6000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 5750 y: 6000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 5750 y: 5050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 5375 y: 5525 z: 750
+Vertices: 
+Position : x: 5250 y: 5050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 5250 y: 6000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 5500 y: 6000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 5500 y: 5050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 5150 y: 5525 z: 625
+Vertices: 
+Position : x: 5050 y: 5050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 5050 y: 6000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 5250 y: 6000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 5250 y: 5050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 5383.33 y: 1000 z: 433.333
+Vertices: 
+Position : x: 5250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 5500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 5750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 5500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 5250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 5050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 5383.33 y: 50 z: 433.333
+Vertices: 
+Position : x: 5050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 5250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 5500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 5750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 5500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 5250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 5150 y: 525 z: 275
+Vertices: 
+Position : x: 5250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 5250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 5050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 5050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 5375 y: 525 z: 50
+Vertices: 
+Position : x: 5500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 5500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 5250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 5250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 5625 y: 525 z: 275
+Vertices: 
+Position : x: 5750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 5750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 5500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 5500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 5625 y: 525 z: 625
+Vertices: 
+Position : x: 5500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 5500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 5750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 5750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 5375 y: 525 z: 750
+Vertices: 
+Position : x: 5250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 5250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 5500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 5500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 5150 y: 525 z: 625
+Vertices: 
+Position : x: 5050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 5050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 5250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 5250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 3000 z: 433.333
+Vertices: 
+Position : x: 10250 y: 3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10500 y: 3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10750 y: 3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10250 y: 3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10050 y: 3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 2050 z: 433.333
+Vertices: 
+Position : x: 10050 y: 2050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10250 y: 2050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10500 y: 2050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10750 y: 2050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10500 y: 2050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10250 y: 2050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10150 y: 2525 z: 275
+Vertices: 
+Position : x: 10250 y: 2050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 10250 y: 3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10050 y: 3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10050 y: 2050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10375 y: 2525 z: 50
+Vertices: 
+Position : x: 10500 y: 2050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10500 y: 3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10250 y: 3000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10250 y: 2050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10625 y: 2525 z: 275
+Vertices: 
+Position : x: 10750 y: 2050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10750 y: 3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 3000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10500 y: 2050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10625 y: 2525 z: 625
+Vertices: 
+Position : x: 10500 y: 2050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10500 y: 3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10750 y: 3000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10750 y: 2050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10375 y: 2525 z: 750
+Vertices: 
+Position : x: 10250 y: 2050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10250 y: 3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10500 y: 3000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10500 y: 2050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10150 y: 2525 z: 625
+Vertices: 
+Position : x: 10050 y: 2050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10050 y: 3000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10250 y: 3000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10250 y: 2050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 1000 z: 433.333
+Vertices: 
+Position : x: 10250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 50 z: 433.333
+Vertices: 
+Position : x: 10050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10150 y: 525 z: 275
+Vertices: 
+Position : x: 10250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 10250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10375 y: 525 z: 50
+Vertices: 
+Position : x: 10500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10250 y: 1000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10250 y: 50 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10625 y: 525 z: 275
+Vertices: 
+Position : x: 10750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 1000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10500 y: 50 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10625 y: 525 z: 625
+Vertices: 
+Position : x: 10500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10750 y: 1000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10750 y: 50 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10375 y: 525 z: 750
+Vertices: 
+Position : x: 10250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10500 y: 1000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10500 y: 50 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10150 y: 525 z: 625
+Vertices: 
+Position : x: 10050 y: 50 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10050 y: 1000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10250 y: 1000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10250 y: 50 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 11000 z: 433.333
+Vertices: 
+Position : x: 10250 y: 11000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10500 y: 11000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10750 y: 11000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 11000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10250 y: 11000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10050 y: 11000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 10050 z: 433.333
+Vertices: 
+Position : x: 10050 y: 10050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10250 y: 10050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10500 y: 10050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10750 y: 10050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10500 y: 10050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10250 y: 10050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10150 y: 10525 z: 275
+Vertices: 
+Position : x: 10250 y: 10050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 10250 y: 11000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10050 y: 11000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10050 y: 10050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10375 y: 10525 z: 50
+Vertices: 
+Position : x: 10500 y: 10050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10500 y: 11000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10250 y: 11000 z: 50 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10250 y: 10050 z: 50 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10625 y: 10525 z: 275
+Vertices: 
+Position : x: 10750 y: 10050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10750 y: 11000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 11000 z: 50 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10500 y: 10050 z: 50 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10625 y: 10525 z: 625
+Vertices: 
+Position : x: 10500 y: 10050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10500 y: 11000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10750 y: 11000 z: 500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10750 y: 10050 z: 500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10375 y: 10525 z: 750
+Vertices: 
+Position : x: 10250 y: 10050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10250 y: 11000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10500 y: 11000 z: 750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10500 y: 10050 z: 750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10150 y: 10525 z: 625
+Vertices: 
+Position : x: 10050 y: 10050 z: 500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10050 y: 11000 z: 500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10250 y: 11000 z: 750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10250 y: 10050 z: 750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 11000 z: 10433.3
+Vertices: 
+Position : x: 10250 y: 11000 z: 10050 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10500 y: 11000 z: 10050 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10750 y: 11000 z: 10500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 11000 z: 10750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10250 y: 11000 z: 10750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10050 y: 11000 z: 10500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 10050 z: 10433.3
+Vertices: 
+Position : x: 10050 y: 10050 z: 10500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10250 y: 10050 z: 10750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10500 y: 10050 z: 10750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10750 y: 10050 z: 10500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10500 y: 10050 z: 10050 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10250 y: 10050 z: 10050 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10150 y: 10525 z: 10275
+Vertices: 
+Position : x: 10250 y: 10050 z: 10050 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+Position : x: 10250 y: 11000 z: 10050 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10050 y: 11000 z: 10500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10050 y: 10050 z: 10500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10375 y: 10525 z: 10050
+Vertices: 
+Position : x: 10500 y: 10050 z: 10050 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+Position : x: 10500 y: 11000 z: 10050 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10250 y: 11000 z: 10050 Normal : x: -0.46802 y: 0.512163 z: -0.720171
+Position : x: 10250 y: 10050 z: 10050 Normal : x: -0.46802 y: -0.512163 z: -0.720171
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10625 y: 10525 z: 10275
+Vertices: 
+Position : x: 10750 y: 10050 z: 10500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+Position : x: 10750 y: 11000 z: 10500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10500 y: 11000 z: 10050 Normal : x: 0.438656 y: 0.501804 z: -0.745502
+Position : x: 10500 y: 10050 z: 10050 Normal : x: 0.438656 y: -0.501804 z: -0.745502
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10625 y: 10525 z: 10625
+Vertices: 
+Position : x: 10500 y: 10050 z: 10750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+Position : x: 10500 y: 11000 z: 10750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10750 y: 11000 z: 10500 Normal : x: 0.839314 y: 0.530787 z: 0.11755
+Position : x: 10750 y: 10050 z: 10500 Normal : x: 0.839314 y: -0.530787 z: 0.11755
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10375 y: 10525 z: 10750
+Vertices: 
+Position : x: 10250 y: 10050 z: 10750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+Position : x: 10250 y: 11000 z: 10750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10500 y: 11000 z: 10750 Normal : x: 0.336557 y: 0.475963 z: 0.81252
+Position : x: 10500 y: 10050 z: 10750 Normal : x: 0.336557 y: -0.475963 z: 0.81252
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10150 y: 10525 z: 10625
+Vertices: 
+Position : x: 10050 y: 10050 z: 10500 Normal : x: -0.855975 y: -0.505095 z: 0.110392
+Position : x: 10050 y: 11000 z: 10500 Normal : x: -0.855975 y: 0.505095 z: 0.110392
+Position : x: 10250 y: 11000 z: 10750 Normal : x: -0.378804 y: 0.485106 z: 0.788149
+Position : x: 10250 y: 10050 z: 10750 Normal : x: -0.378804 y: -0.485106 z: 0.788149
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

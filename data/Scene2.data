@@ -1,0 +1,2327 @@
+Camera information 
+Location:  x: 0 y: 0 z: 2000
+Vert: 0 Horz: 0 Rot: 0 Dist: 8000 View Dist: 2000
+Focal point:  x: 0 y: 0 z: -6000
+VPN:  x: 0 y: 0 z: 0
+View Fustrum
+Wall #: 0Normal:  x: 0 y: 0 z: -1
+Center:  x: 0 y: 0 z: -4800
+Vertices: 
+Position : x: -2238 y: -2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2238 y: -2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2238 y: 2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: -2238 y: 2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+
+
+Wall #: 1Normal:  x: 0 y: 0 z: 1
+Center:  x: 0 y: 0 z: 8000
+Vertices: 
+Position : x: 3730 y: 4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+Position : x: 3730 y: -4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3730 y: -4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3730 y: 4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+
+
+Wall #: 2Normal:  x: 0 y: 0.989749 z: -0.142818
+Center:  x: 0 y: 3694.5 z: 1600
+Vertices: 
+Position : x: -2238 y: 2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2238 y: 2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: 3730 y: 4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3730 y: 4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+
+
+Wall #: 3Normal:  x: 0 y: -0.989749 z: -0.142818
+Center:  x: 0 y: -3694.5 z: 1600
+Vertices: 
+Position : x: 2238 y: -2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: -2238 y: -2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3730 y: -4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+Position : x: 3730 y: -4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+
+
+Wall #: 4Normal:  x: -0.993275 y: 0 z: -0.115779
+Center:  x: -2984 y: 0 z: 1600
+Vertices: 
+Position : x: -2238 y: -2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: -2238 y: 2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3730 y: 4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3730 y: -4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+
+
+Wall #: 5Normal:  x: 0.993275 y: 0 z: -0.115779
+Center:  x: 2984 y: 0 z: 1600
+Vertices: 
+Position : x: 2238 y: 2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2238 y: -2771 z: -2800  Screen Position : x: 0 y: 0 z: 0
+Position : x: 3730 y: -4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+Position : x: 3730 y: 4618 z: 10000  Screen Position : x: 0 y: 0 z: 0
+
+
+
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -1000 z: -66.6667
+Vertices: 
+Position : x: -1750 y: -1000 z: -450  Screen Position : x: -118.631 y: 23.6396 z: 5550
+Position : x: -1500 y: -1000 z: -450  Screen Position : x: -28.5405 y: 23.6396 z: 5550
+Position : x: -1250 y: -1000 z: 0  Screen Position : x: 95.3333 y: 50.6667 z: 6000
+Position : x: -1500 y: -1000 z: 250  Screen Position : x: 32 y: 64 z: 6250
+Position : x: -1750 y: -1000 z: 250  Screen Position : x: -48 y: 64 z: 6250
+Position : x: -1950 y: -1000 z: 0  Screen Position : x: -138 y: 50.6667 z: 6000
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -3616.67 y: 0 z: 433.333
+Vertices: 
+Position : x: -3750 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3250 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3950 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 383.333 y: 1000 z: 433.333
+Vertices: 
+Position : x: 250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 50 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 883.333 y: 1250 z: 433.333
+Vertices: 
+Position : x: 750 y: 1250 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 1250 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1250 y: 1250 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 1250 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1250 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 550 y: 1250 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 5383.33 y: 6000 z: 433.333
+Vertices: 
+Position : x: 5250 y: 6000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 6000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 6000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 6000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 6000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 6000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 11000 z: 433.333
+Vertices: 
+Position : x: 10250 y: 11000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 11000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 11000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 10050 z: 433.333
+Vertices: 
+Position : x: 10050 y: 10050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 10050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10150 y: 10525 z: 275
+Vertices: 
+Position : x: 10250 y: 10050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 11000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 10050 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10375 y: 10525 z: 50
+Vertices: 
+Position : x: 10500 y: 10050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10625 y: 10525 z: 275
+Vertices: 
+Position : x: 10750 y: 10050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 11000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10625 y: 10525 z: 625
+Vertices: 
+Position : x: 10500 y: 10050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 11000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 10050 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 11000 z: 10433.3
+Vertices: 
+Position : x: 10250 y: 11000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 11000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 11000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 10050 z: 10433.3
+Vertices: 
+Position : x: 10050 y: 10050 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 10050 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 10050  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10150 y: 10525 z: 10275
+Vertices: 
+Position : x: 10250 y: 10050 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 11000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 10050 z: 10500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10375 y: 10525 z: 10050
+Vertices: 
+Position : x: 10500 y: 10050 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 10050  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10625 y: 10525 z: 10275
+Vertices: 
+Position : x: 10750 y: 10050 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 11000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 10050  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10625 y: 10525 z: 10625
+Vertices: 
+Position : x: 10500 y: 10050 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 11000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 10050 z: 10500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10375 y: 10525 z: 10750
+Vertices: 
+Position : x: 10250 y: 10050 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 10750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10150 y: 10525 z: 10625
+Vertices: 
+Position : x: 10050 y: 10050 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 11000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 10750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10375 y: 10525 z: 750
+Vertices: 
+Position : x: 10250 y: 10050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 11000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 10050 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10150 y: 10525 z: 625
+Vertices: 
+Position : x: 10050 y: 10050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 11000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 11000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 10050 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 5383.33 y: 5050 z: 433.333
+Vertices: 
+Position : x: 5050 y: 5050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 5050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 5050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 5050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 5050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 5050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 3000 z: 433.333
+Vertices: 
+Position : x: 10250 y: 3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 2050 z: 433.333
+Vertices: 
+Position : x: 10050 y: 2050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 2050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 2050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 2050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 2050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 2050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10150 y: 2525 z: 275
+Vertices: 
+Position : x: 10250 y: 2050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 2050 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10375 y: 2525 z: 50
+Vertices: 
+Position : x: 10500 y: 2050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 2050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10625 y: 2525 z: 275
+Vertices: 
+Position : x: 10750 y: 2050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 2050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10625 y: 2525 z: 625
+Vertices: 
+Position : x: 10500 y: 2050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 2050 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10375 y: 2525 z: 750
+Vertices: 
+Position : x: 10250 y: 2050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 2050 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10150 y: 2525 z: 625
+Vertices: 
+Position : x: 10050 y: 2050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 2050 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 5150 y: 5525 z: 275
+Vertices: 
+Position : x: 5250 y: 5050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 6000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 6000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 5050 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 5375 y: 5525 z: 50
+Vertices: 
+Position : x: 5500 y: 5050 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 6000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 6000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 5050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 5625 y: 5525 z: 275
+Vertices: 
+Position : x: 5750 y: 5050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 6000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 6000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 5050 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 5625 y: 5525 z: 625
+Vertices: 
+Position : x: 5500 y: 5050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 6000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 6000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 5050 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 5375 y: 5525 z: 750
+Vertices: 
+Position : x: 5250 y: 5050 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 6000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 6000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 5050 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 5150 y: 5525 z: 625
+Vertices: 
+Position : x: 5050 y: 5050 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 6000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 6000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 5050 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 683.333 y: 1091.67 z: 200
+Vertices: 
+Position : x: 750 y: 775 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1250 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 550 y: 1250 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 916.667 y: 1091.67 z: 50
+Vertices: 
+Position : x: 1000 y: 775 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 1250 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1250 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 1166.67 y: 1091.67 z: 350
+Vertices: 
+Position : x: 1250 y: 775 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1250 y: 1250 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 1250 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 1083.33 y: 1091.67 z: 666.667
+Vertices: 
+Position : x: 1000 y: 775 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 1250 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1250 y: 1250 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 833.333 y: 1091.67 z: 750
+Vertices: 
+Position : x: 750 y: 775 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1250 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 1250 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 616.667 y: 1091.67 z: 583.333
+Vertices: 
+Position : x: 550 y: 775 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 550 y: 1250 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1250 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 383.333 y: 50 z: 433.333
+Vertices: 
+Position : x: 50 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 150 y: 525 z: 275
+Vertices: 
+Position : x: 250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 50 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 50 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 375 y: 525 z: 50
+Vertices: 
+Position : x: 500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 625 y: 525 z: 275
+Vertices: 
+Position : x: 750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 1004.77 y: 300 z: 435.926
+Vertices: 
+Position : x: 714.609 y: 300 z: 129.63  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1059.26 y: 300 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 300 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1250 y: 300 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 300 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 750 y: 537.5 z: 50
+Vertices: 
+Position : x: 750 y: 537.5 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 1000 y: 537.5 z: 50
+Vertices: 
+Position : x: 1000 y: 537.5 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 1250 y: 537.5 z: 500
+Vertices: 
+Position : x: 1250 y: 537.5 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 1000 y: 537.5 z: 750
+Vertices: 
+Position : x: 1000 y: 537.5 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 2383.33 y: 1000 z: 433.333
+Vertices: 
+Position : x: 2250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 2183.33 y: 841.667 z: 200
+Vertices: 
+Position : x: 2250 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 2416.67 y: 841.667 z: 50
+Vertices: 
+Position : x: 2500 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 2666.67 y: 841.667 z: 350
+Vertices: 
+Position : x: 2750 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 5383.33 y: 1000 z: 433.333
+Vertices: 
+Position : x: 5250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 5183.33 y: 841.667 z: 200
+Vertices: 
+Position : x: 5250 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 5416.67 y: 841.667 z: 50
+Vertices: 
+Position : x: 5500 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 5666.67 y: 841.667 z: 350
+Vertices: 
+Position : x: 5750 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: 10383.3 y: 1000 z: 433.333
+Vertices: 
+Position : x: 10250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: 10183.3 y: 841.667 z: 200
+Vertices: 
+Position : x: 10250 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: 10416.7 y: 841.667 z: 50
+Vertices: 
+Position : x: 10500 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: 10666.7 y: 841.667 z: 350
+Vertices: 
+Position : x: 10750 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 10583.3 y: 841.667 z: 666.667
+Vertices: 
+Position : x: 10500 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 10333.3 y: 841.667 z: 750
+Vertices: 
+Position : x: 10250 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 10116.7 y: 841.667 z: 583.333
+Vertices: 
+Position : x: 10050 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 5583.33 y: 841.667 z: 666.667
+Vertices: 
+Position : x: 5500 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 5333.33 y: 841.667 z: 750
+Vertices: 
+Position : x: 5250 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 5116.67 y: 841.667 z: 583.333
+Vertices: 
+Position : x: 5050 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 2583.33 y: 841.667 z: 666.667
+Vertices: 
+Position : x: 2500 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 2333.33 y: 841.667 z: 750
+Vertices: 
+Position : x: 2250 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 2116.67 y: 841.667 z: 583.333
+Vertices: 
+Position : x: 2050 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2050 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 750 y: 418.75 z: 50
+Vertices: 
+Position : x: 750 y: 537.5 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 300 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 1000 y: 418.75 z: 50
+Vertices: 
+Position : x: 1000 y: 537.5 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 300 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 1250 y: 418.75 z: 500
+Vertices: 
+Position : x: 1250 y: 537.5 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1250 y: 300 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 1000 y: 418.75 z: 750
+Vertices: 
+Position : x: 1000 y: 537.5 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 1000 y: 300 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 2383.33 y: 50 z: 433.333
+Vertices: 
+Position : x: 2050 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 2250 y: 287.5 z: 50
+Vertices: 
+Position : x: 2250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 2500 y: 287.5 z: 50
+Vertices: 
+Position : x: 2500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 2750 y: 287.5 z: 500
+Vertices: 
+Position : x: 2750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2750 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 2500 y: 287.5 z: 750
+Vertices: 
+Position : x: 2500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2500 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 2250 y: 287.5 z: 750
+Vertices: 
+Position : x: 2250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2250 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 2050 y: 287.5 z: 500
+Vertices: 
+Position : x: 2050 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 2050 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 5383.33 y: 50 z: 433.333
+Vertices: 
+Position : x: 5050 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 5250 y: 287.5 z: 50
+Vertices: 
+Position : x: 5250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 5500 y: 287.5 z: 50
+Vertices: 
+Position : x: 5500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 5750 y: 287.5 z: 500
+Vertices: 
+Position : x: 5750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5750 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 5500 y: 287.5 z: 750
+Vertices: 
+Position : x: 5500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5500 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 5250 y: 287.5 z: 750
+Vertices: 
+Position : x: 5250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5250 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 5050 y: 287.5 z: 500
+Vertices: 
+Position : x: 5050 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 5050 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 10383.3 y: 50 z: 433.333
+Vertices: 
+Position : x: 10050 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 10250 y: 287.5 z: 50
+Vertices: 
+Position : x: 10250 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 10500 y: 287.5 z: 50
+Vertices: 
+Position : x: 10500 y: 50 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 525 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 10750 y: 287.5 z: 500
+Vertices: 
+Position : x: 10750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10750 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 10500 y: 287.5 z: 750
+Vertices: 
+Position : x: 10500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10500 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 10250 y: 287.5 z: 750
+Vertices: 
+Position : x: 10250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10250 y: 525 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 10050 y: 287.5 z: 500
+Vertices: 
+Position : x: 10050 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 10050 y: 525 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: 625 y: 525 z: 625
+Vertices: 
+Position : x: 500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 763.064 y: 300 z: 604.185
+Vertices: 
+Position : x: 877.693 y: 300 z: 423.181  Screen Position : x: 0 y: 0 z: 0
+Position : x: 661.5 y: 300 z: 639.375  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 300 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 750 y: 537.5 z: 750
+Vertices: 
+Position : x: 750 y: 300 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 750 y: 775 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: 375 y: 525 z: 750
+Vertices: 
+Position : x: 250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 500 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: 150 y: 525 z: 625
+Vertices: 
+Position : x: 50 y: 50 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 50 y: 1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: 250 y: 50 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: 700.951 y: 300 z: 423.046
+Vertices: 
+Position : x: 877.693 y: 300 z: 423.181  Screen Position : x: 0 y: 0 z: 0
+Position : x: 714.609 y: 300 z: 129.63  Screen Position : x: 0 y: 0 z: 0
+Position : x: 550 y: 300 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 661.5 y: 300 z: 639.375  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: 550 y: 537.5 z: 500
+Vertices: 
+Position : x: 550 y: 300 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: 550 y: 775 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -3616.67 y: -950 z: 433.333
+Vertices: 
+Position : x: -3950 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3250 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -3850 y: -475 z: 275
+Vertices: 
+Position : x: -3750 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3950 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3950 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -3625 y: -475 z: 50
+Vertices: 
+Position : x: -3500 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -3375 y: -475 z: 275
+Vertices: 
+Position : x: -3250 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3250 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -616.667 y: 0 z: 433.333
+Vertices: 
+Position : x: -750 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -616.667 y: -950 z: 433.333
+Vertices: 
+Position : x: -950 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -850 y: -475 z: 275
+Vertices: 
+Position : x: -750 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -625 y: -475 z: 50
+Vertices: 
+Position : x: -500 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -375 y: -475 z: 275
+Vertices: 
+Position : x: -250 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: 0 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -375 y: -475 z: 625
+Vertices: 
+Position : x: -500 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -625 y: -475 z: 750
+Vertices: 
+Position : x: -750 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -850 y: -475 z: 625
+Vertices: 
+Position : x: -950 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -3375 y: -475 z: 625
+Vertices: 
+Position : x: -3500 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3250 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3250 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -3625 y: -475 z: 750
+Vertices: 
+Position : x: -3750 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3500 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -3850 y: -475 z: 625
+Vertices: 
+Position : x: -3950 y: -950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3950 y: 0 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: 0 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -3750 y: -950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -1950 z: -66.6667
+Vertices: 
+Position : x: -1950 y: -1950 z: 0  Screen Position : x: -138 y: -266 z: 6000
+Position : x: -1750 y: -1950 z: 250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -1950 z: 250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -1950 z: 0  Screen Position : x: 95.3333 y: -266 z: 6000
+Position : x: -1500 y: -1950 z: -450  Screen Position : x: -28.5405 y: -318.703 z: 5550
+Position : x: -1750 y: -1950 z: -450  Screen Position : x: -118.631 y: -318.703 z: 5550
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -19000 z: -9566.67
+Vertices: 
+Position : x: -1750 y: -19000 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: -9500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -9616.67 y: -3000 z: 433.333
+Vertices: 
+Position : x: -9750 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9250 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9950 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -9616.67 y: -3950 z: 433.333
+Vertices: 
+Position : x: -9950 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9250 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -9850 y: -3475 z: 275
+Vertices: 
+Position : x: -9750 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9950 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9950 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -9625 y: -3475 z: 50
+Vertices: 
+Position : x: -9500 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -9375 y: -3475 z: 275
+Vertices: 
+Position : x: -9250 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9250 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -616.667 y: -3000 z: 433.333
+Vertices: 
+Position : x: -750 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -616.667 y: -3950 z: 433.333
+Vertices: 
+Position : x: -950 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -850 y: -3475 z: 275
+Vertices: 
+Position : x: -750 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -625 y: -3475 z: 50
+Vertices: 
+Position : x: -500 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -375 y: -3475 z: 275
+Vertices: 
+Position : x: -250 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -375 y: -3475 z: 625
+Vertices: 
+Position : x: -500 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -250 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -625 y: -3475 z: 750
+Vertices: 
+Position : x: -750 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -500 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -850 y: -3475 z: 625
+Vertices: 
+Position : x: -950 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -950 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -750 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -9375 y: -3475 z: 625
+Vertices: 
+Position : x: -9500 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9250 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9250 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -9625 y: -3475 z: 750
+Vertices: 
+Position : x: -9750 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9500 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -9850 y: -3475 z: 625
+Vertices: 
+Position : x: -9950 y: -3950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9950 y: -3000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -9750 y: -3950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -19950 z: -9566.67
+Vertices: 
+Position : x: -1950 y: -19950 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19950 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: -9950  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -19475 z: -9725
+Vertices: 
+Position : x: -1750 y: -19950 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19950 z: -9500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -19475 z: -9950
+Vertices: 
+Position : x: -1500 y: -19950 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: -9950  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -19475 z: -9725
+Vertices: 
+Position : x: -1250 y: -19950 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: -9950  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: -9950  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -19475 z: -9375
+Vertices: 
+Position : x: -1500 y: -19950 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19950 z: -9500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -19000 z: 10433.3
+Vertices: 
+Position : x: -1750 y: -19000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -19950 z: 10433.3
+Vertices: 
+Position : x: -1950 y: -19950 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19950 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 10050  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -19475 z: 10275
+Vertices: 
+Position : x: -1750 y: -19950 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19950 z: 10500  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1616.67 y: -19000 z: 433.333
+Vertices: 
+Position : x: -1750 y: -19000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1616.67 y: -19950 z: 433.333
+Vertices: 
+Position : x: -1950 y: -19950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -19475 z: 275
+Vertices: 
+Position : x: -1750 y: -19950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -19475 z: 50
+Vertices: 
+Position : x: -1500 y: -19950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -19475 z: 275
+Vertices: 
+Position : x: -1250 y: -19950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -19475 z: 625
+Vertices: 
+Position : x: -1500 y: -19950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -19475 z: 750
+Vertices: 
+Position : x: -1750 y: -19950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -19475 z: 625
+Vertices: 
+Position : x: -1950 y: -19950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -19475 z: 10050
+Vertices: 
+Position : x: -1500 y: -19950 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 10050  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -19475 z: 10275
+Vertices: 
+Position : x: -1250 y: -19950 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 10050  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 10050  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -19475 z: 10625
+Vertices: 
+Position : x: -1500 y: -19950 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -19950 z: 10500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -19475 z: 10750
+Vertices: 
+Position : x: -1750 y: -19950 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: 10750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -19475 z: 10625
+Vertices: 
+Position : x: -1950 y: -19950 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: 10500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: 10750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: 10750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -19475 z: -9250
+Vertices: 
+Position : x: -1750 y: -19950 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19000 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -19950 z: -9250  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -19475 z: -9375
+Vertices: 
+Position : x: -1950 y: -19950 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -19000 z: -9500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19000 z: -9250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -19950 z: -9250  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1850 y: -1475 z: -225
+Vertices: 
+Position : x: -1750 y: -1950 z: -450  Screen Position : x: -118.631 y: -318.703 z: 5550
+Position : x: -1750 y: -1000 z: -450  Screen Position : x: -118.631 y: 23.6396 z: 5550
+Position : x: -1950 y: -1000 z: 0  Screen Position : x: -138 y: 50.6667 z: 6000
+Position : x: -1950 y: -1950 z: 0  Screen Position : x: -138 y: -266 z: 6000
+
+Back Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -19616.7 y: -1000 z: 433.333
+Vertices: 
+Position : x: -19750 y: -1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19250 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19950 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -19616.7 y: -1950 z: 433.333
+Vertices: 
+Position : x: -19950 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19250 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -19850 y: -1475 z: 275
+Vertices: 
+Position : x: -19750 y: -1950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19950 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19950 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -19625 y: -1475 z: 50
+Vertices: 
+Position : x: -19500 y: -1950 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -19375 y: -1475 z: 275
+Vertices: 
+Position : x: -19250 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19250 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1000 z: 50  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1950 z: 50  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -19375 y: -1475 z: 625
+Vertices: 
+Position : x: -19500 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19250 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19250 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -19625 y: -1475 z: 750
+Vertices: 
+Position : x: -19750 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19500 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: no 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -19850 y: -1475 z: 625
+Vertices: 
+Position : x: -19950 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19950 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -19750 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -1475 z: -450
+Vertices: 
+Position : x: -1500 y: -1950 z: -450  Screen Position : x: -28.5405 y: -318.703 z: 5550
+Position : x: -1500 y: -1000 z: -450  Screen Position : x: -28.5405 y: 23.6396 z: 5550
+Position : x: -1750 y: -1000 z: -450  Screen Position : x: -118.631 y: 23.6396 z: 5550
+Position : x: -1750 y: -1950 z: -450  Screen Position : x: -118.631 y: -318.703 z: 5550
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1375 y: -1475 z: -225
+Vertices: 
+Position : x: -1250 y: -1950 z: 0  Screen Position : x: 95.3333 y: -266 z: 6000
+Position : x: -1250 y: -1000 z: 0  Screen Position : x: 95.3333 y: 50.6667 z: 6000
+Position : x: -1500 y: -1000 z: -450  Screen Position : x: -28.5405 y: 23.6396 z: 5550
+Position : x: -1500 y: -1950 z: -450  Screen Position : x: -28.5405 y: -318.703 z: 5550
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -1475 z: 125
+Vertices: 
+Position : x: -1500 y: -1950 z: 250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -1000 z: 250  Screen Position : x: 32 y: 64 z: 6250
+Position : x: -1250 y: -1000 z: 0  Screen Position : x: 95.3333 y: 50.6667 z: 6000
+Position : x: -1250 y: -1950 z: 0  Screen Position : x: 95.3333 y: -266 z: 6000
+
+Back Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1476.19 y: -1000 z: 555.357
+Vertices: 
+Position : x: -1404.76 y: -1000 z: 221.429  Screen Position : x: 60.4118 y: 62.5304 z: 6221.43
+Position : x: -1250 y: -1000 z: 500  Screen Position : x: 127.385 y: 76.3077 z: 6500
+Position : x: -1500 y: -1000 z: 750  Screen Position : x: 67.5556 y: 87.7037 z: 6750
+Position : x: -1750 y: -1000 z: 750  Screen Position : x: -6.51852 y: 87.7037 z: 6750
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1547.25 y: -1950 z: 573.915
+Vertices: 
+Position : x: -1831.48 y: -1950 z: 648.148  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1404.76 y: -1950 z: 221.429  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1312.5 y: -1475 z: 387.5
+Vertices: 
+Position : x: -1375 y: -1950 z: 275  Screen Position : x: 73.753 y: -237.514 z: 6275
+Position : x: -1250 y: -1950 z: 500  Screen Position : x: 127.385 y: -216 z: 6500
+Position : x: -1250 y: -1000 z: 500  Screen Position : x: 127.385 y: 76.3077 z: 6500
+Position : x: -1375 y: -1000 z: 275  Screen Position : x: 73.753 y: 65.2749 z: 6275
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0.707107 y: 0 z: 0.707107
+Center:  x: -1375 y: -1475 z: 625
+Vertices: 
+Position : x: -1500 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1250 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -1475 z: 750
+Vertices: 
+Position : x: -1750 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1500 y: -1950 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1816.67 y: -1316.67 z: 666.667
+Vertices: 
+Position : x: -1850 y: -1950 z: 625  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1850 y: -1000 z: 625  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -1000 z: 750  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 1
+Center:  x: -1625 y: -1475 z: 250
+Vertices: 
+Position : x: -1750 y: -1950 z: 250  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1750 y: -1000 z: 250  Screen Position : x: -48 y: 64 z: 6250
+Position : x: -1500 y: -1000 z: 250  Screen Position : x: 32 y: 64 z: 6250
+Position : x: -1500 y: -1950 z: 250  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1781.15 y: -1950 z: 464.484
+Vertices: 
+Position : x: -1804.89 y: -1950 z: 354.894  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1831.48 y: -1950 z: 648.148  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1538.23 y: -1950 z: 354.894  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1883.33 y: -1316.67 z: 350
+Vertices: 
+Position : x: -1850 y: -1950 z: 275  Screen Position : x: -77.6414 y: -237.514 z: 6275
+Position : x: -1850 y: -1000 z: 275  Screen Position : x: -77.6414 y: 65.2749 z: 6275
+Position : x: -1950 y: -1000 z: 500  Screen Position : x: -88 y: 76.3077 z: 6500
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0.874157 y: 0 z: -0.485643
+Center:  x: -1388.89 y: -1527.78 z: 250
+Vertices: 
+Position : x: -1416.67 y: -1633.33 z: 200  Screen Position : x: 55.0108 y: -142.882 z: 6200
+Position : x: -1375 y: -1950 z: 275  Screen Position : x: 73.753 y: -237.514 z: 6275
+Position : x: -1375 y: -1000 z: 275  Screen Position : x: 73.753 y: 65.2749 z: 6275
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1900 y: -1475 z: 562.5
+Vertices: 
+Position : x: -1850 y: -1950 z: 625  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -1950 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1950 y: -1000 z: 500  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1850 y: -1000 z: 625  Screen Position : x: 0 y: 0 z: 0
+
+
+
+
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: -0.780869 y: 0 z: 0.624695
+Center:  x: -1850 y: -1475 z: 125
+Vertices: 
+Position : x: -1950 y: -1950 z: 0  Screen Position : x: -138 y: -266 z: 6000
+Position : x: -1950 y: -1000 z: 0  Screen Position : x: -138 y: 50.6667 z: 6000
+Position : x: -1750 y: -1000 z: 250  Screen Position : x: -48 y: 64 z: 6250
+Position : x: -1750 y: -1950 z: 250  Screen Position : x: 0 y: 0 z: 0
+
+Back Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1651.09 y: -1950 z: 332.263
+Vertices: 
+Position : x: -1601.35 y: -1950 z: 287.002  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1804.89 y: -1950 z: 354.894  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1547.04 y: -1950 z: 354.894  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: -1825 y: -1950 z: 218.75
+Vertices: 
+Position : x: -1850 y: -1950 z: 275  Screen Position : x: -77.6414 y: -237.514 z: 6275
+Position : x: -1800 y: -1950 z: 162.5  Screen Position : x: -72.1785 y: -248.86 z: 6162.5
+
+
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 1 z: 0
+Center:  x: -1551.59 y: -1000 z: 107.143
+Vertices: 
+Position : x: -1750 y: -1000 z: 50  Screen Position : x: -66.5124 y: 53.4215 z: 6050
+Position : x: -1500 y: -1000 z: 50  Screen Position : x: 16.1322 y: 53.4215 z: 6050
+Position : x: -1404.76 y: -1000 z: 221.429  Screen Position : x: 60.4118 y: 62.5304 z: 6221.43
+
+Front Child: 
+Start node  visible state: backface 
+Node Polygon: 
+Normal:  x: 0 y: -1 z: 0
+Center:  x: -1562.21 y: -1950 z: 332.263
+Vertices: 
+Position : x: -1601.35 y: -1950 z: 287.002  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1547.04 y: -1950 z: 354.894  Screen Position : x: 0 y: 0 z: 0
+Position : x: -1538.23 y: -1950 z: 354.894  Screen Position : x: 0 y: 0 z: 0
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: -0.913812 y: 0 z: -0.406138
+Center:  x: -1766.67 y: -1633.33 z: 87.5
+Vertices: 
+Position : x: -1800 y: -1950 z: 162.5  Screen Position : x: -72.1785 y: -248.86 z: 6162.5
+Position : x: -1750 y: -1950 z: 50  Screen Position : x: -66.5124 y: -260.628 z: 6050
+Position : x: -1750 y: -1000 z: 50  Screen Position : x: -66.5124 y: 53.4215 z: 6050
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: -1
+Center:  x: -1625 y: -1475 z: 50
+Vertices: 
+Position : x: -1500 y: -1950 z: 50  Screen Position : x: 16.1322 y: -260.628 z: 6050
+Position : x: -1500 y: -1000 z: 50  Screen Position : x: 16.1322 y: 53.4215 z: 6050
+Position : x: -1750 y: -1000 z: 50  Screen Position : x: -66.5124 y: 53.4215 z: 6050
+Position : x: -1750 y: -1950 z: 50  Screen Position : x: -66.5124 y: -260.628 z: 6050
+
+Front Child: 
+Start node  visible state: yes 
+Node Polygon: 
+Normal:  x: 0 y: 0 z: 0
+Center:  x: -1416.67 y: -1633.33 z: 200
+Vertices: 
+Position : x: -1416.67 y: -1633.33 z: 200  Screen Position : x: 55.0108 y: -142.882 z: 6200
+
+
+
+
+
+
+
+
+
+
+
+
+
+

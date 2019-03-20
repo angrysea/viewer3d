@@ -1,0 +1,42 @@
+// demo.odl : type library source for demo.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (demo.tlb).
+
+[ uuid(B5CBCD34-EB69-11D2-80FF-006097A05989), version(1.0) ]
+library Demo
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+
+	//  Primary dispatch interface for CDemoDoc
+	
+	[ uuid(B5CBCD35-EB69-11D2-80FF-006097A05989) ]
+	dispinterface IDemo
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CDemoDoc)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CDemoDoc)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CDemoDoc
+	
+	[ uuid(B5CBCD33-EB69-11D2-80FF-006097A05989) ]
+	coclass Document
+	{
+		[default] dispinterface IDemo;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};
